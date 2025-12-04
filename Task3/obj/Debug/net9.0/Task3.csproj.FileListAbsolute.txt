@@ -1,0 +1,15 @@
+D:\Workshop 6\Worshop 6\Task3\bin\Debug\net9.0\Task3.exe
+D:\Workshop 6\Worshop 6\Task3\bin\Debug\net9.0\Task3.deps.json
+D:\Workshop 6\Worshop 6\Task3\bin\Debug\net9.0\Task3.runtimeconfig.json
+D:\Workshop 6\Worshop 6\Task3\bin\Debug\net9.0\Task3.dll
+D:\Workshop 6\Worshop 6\Task3\bin\Debug\net9.0\Task3.pdb
+D:\Workshop 6\Worshop 6\Task3\obj\Debug\net9.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workshop 6\Worshop 6\Task3\obj\Debug\net9.0\Task3.AssemblyInfoInputs.cache
+D:\Workshop 6\Worshop 6\Task3\obj\Debug\net9.0\Task3.AssemblyInfo.cs
+D:\Workshop 6\Worshop 6\Task3\obj\Debug\net9.0\Task3.csproj.CoreCompileInputs.cache
+D:\Workshop 6\Worshop 6\Task3\obj\Debug\net9.0\Task3.sourcelink.json
+D:\Workshop 6\Worshop 6\Task3\obj\Debug\net9.0\Task3.dll
+D:\Workshop 6\Worshop 6\Task3\obj\Debug\net9.0\refint\Task3.dll
+D:\Workshop 6\Worshop 6\Task3\obj\Debug\net9.0\Task3.pdb
+D:\Workshop 6\Worshop 6\Task3\obj\Debug\net9.0\Task3.genruntimeconfig.cache
+D:\Workshop 6\Worshop 6\Task3\obj\Debug\net9.0\ref\Task3.dll
